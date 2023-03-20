@@ -1,4 +1,4 @@
-# Bird-Identifier-
+Bird-Identifier
 # Table of Contents
 # Introduction
 # Project Description
